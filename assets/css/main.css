@@ -237,7 +237,7 @@ section {
 }
 
 .header.sticked {
-  background: var(--color-green);
+  background-color: #4DE5A3;
   box-shadow: 0px 2px 20px rgba(var(--color-secondary-rgb), 0.1);
 }
 
@@ -3242,7 +3242,7 @@ section {
 }
 
 .footer .footer-content {
-  background: var(--color-secondary);
+  background-color: #0FC6EA;
   padding: 60px 0 30px 0;
 }
 
@@ -3368,7 +3368,7 @@ section {
 
 .footer .footer-legal {
   padding: 30px 0;
-  background: var(--color-secondary-dark);
+  background-color: #0FC6EA;
 }
 
 .footer .footer-legal .credits {
